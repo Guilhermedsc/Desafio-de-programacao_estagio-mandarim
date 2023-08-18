@@ -62,6 +62,7 @@ header {
 
 .texto .menor {
     font-size: 70%;
+    padding-top: 10px;
 }
 
 .images {
@@ -180,17 +181,27 @@ header {
 }
 
 footer {
+    /* background-color: black; */
     position: relative;
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
 }
 
-.rodape {
+.rodape1 {
     max-width: 100%;
     height: auto;
     display: block;
     padding-bottom: 30px;
+    position: relative;
+}
+
+.rodape2 {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    width: 50%;
+    height: auto;
 }
 
 footer p {
