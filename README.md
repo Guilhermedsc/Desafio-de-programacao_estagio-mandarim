@@ -12,4 +12,4 @@ Desafio foi feito para concorrer a vaga de estágio na Mandarim.
 ![](./assets/layout.jpeg)
 
 ## Github Pages
-- ![Deploy da aplicação](https://guilhermedsc.github.io/Desafio-de-programacao_estagio-mandarim/)
+- [Deploy da aplicação](https://guilhermedsc.github.io/Desafio-de-programacao_estagio-mandarim/)
